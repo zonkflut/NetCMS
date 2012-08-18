@@ -1,4 +1,5 @@
 *.suo
+*.csproj.user
 *.csproj.DotSettings.user
 packages/
 _ReSharper.NetCMS/
