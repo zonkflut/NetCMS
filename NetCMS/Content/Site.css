@@ -73,3 +73,46 @@ textarea
 {
     display: none;
 }
+
+
+
+/* Admin styles
+------------------------------------------------------*/
+
+body {
+    background-color: #ababab;
+}
+
+header 
+{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #4e86ea;
+    overflow: hidden;
+}
+
+footer {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #4e86ea;
+}
+
+section.page {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+
+header hgroup {
+    float: left;
+}
+
+nav li 
+{
+    padding-right: 10px;
+    list-style-type: none;
+    float: right;
+}
